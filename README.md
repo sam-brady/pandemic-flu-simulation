@@ -3,4 +3,4 @@ Here is a simulation written in python to model pandemic flu spread in a classro
 
 
 
-![Image description](https://github.com/sam-brady/pandemic-flu-simulation/pandemic_sims.png)
+![Image description](https://github.com/sam-brady/pandemic-flu-simulation/main/pandemic_sims.png)
